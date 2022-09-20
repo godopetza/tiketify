@@ -68,9 +68,9 @@ export const NavBar = () => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-              <a href="#"><img src={navIcon1} alt="" /></a>
-              <a href="#"><img src={navIcon2} alt="" /></a>
-              <a href="#"><img src={navIcon4} alt="Github-icon" /></a>
+              <a href="/#"><img src={navIcon1} alt="" /></a>
+              <a href="/#"><img src={navIcon2} alt="" /></a>
+              <a href="/#"><img src={navIcon4} alt="Github-icon" /></a>
             </div>
             <button className="vvd" onClick={() => console.log('Login')}><span>Login</span></button>
           </span>
